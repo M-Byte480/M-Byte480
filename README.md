@@ -1,4 +1,6 @@
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" width="450"> 
+</div>
 
 - 👋 My name is @Milan
 - 👀 I’m interested in Competitive Programming
@@ -9,6 +11,8 @@
 <p style="text-align: center" align="center">
 <img align="center" style="text-align: center" width=400px height="auto" class="image" src="https://profile-counter.glitch.me/M-Byte480/count.svg" /> 
 </p>
+
+
 
 
 
