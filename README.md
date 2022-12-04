@@ -1,5 +1,12 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" width="450"> 
+  <img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" width="375">
+</div>
+<div id="badges" align="center">
+  
+   [![PersonalSite](https://img.shields.io/static/v1?style=for-the-badge&message=Personal+Site&color=5ac200&logo=Google+Chrome&logoColor=FFFFFF&label=) ](https://skynet.ie/~milan/portfolio/)
+   [![LinkedIn](https://img.shields.io/badge/linkedIn-blue?logo=linkedIn&logocolor=blue&style=for-the-badge)](https://www.linkedin.com/)
+   [![YouTube](https://img.shields.io/badge/youtube-red?logo=youtube&logocolor=black&style=for-the-badge&end)](https://www.youtube.com/)
+
 </div>
 
 - 👋 My name is @Milan
@@ -8,8 +15,9 @@
 - 💞️ I’m looking to collaborate on any project, preferably OOP
 
 ## Visitor Count
+
 <p style="text-align: center" align="center">
-<img align="center" style="text-align: center" width=400px height="auto" class="image" src="https://profile-counter.glitch.me/M-Byte480/count.svg" /> 
+  <img align="center" style="text-align: center" width=370x height="auto" class="image" src="https://profile-counter.glitch.me/M-Byte480/count.svg" /> 
 </p>
 
 
