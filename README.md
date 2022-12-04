@@ -1,7 +1,12 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+
+
 <div id="header" align="center"  padding-bottom="54px">
   <img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" width="375">
 </div>
-<br>
+
+---
+
 <div id="badges" align="center">
   
    <h3 style="text-align: center" align="center">
@@ -33,12 +38,21 @@
  
 </div>
 
-## About Me
+---
 
-- 👋 My name is @Milan
-- 👀 I’m interested in Competitive Programming
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on any project, preferably OOP
+### :man_technologist: About Me :
+
+I am a Computer Science Student 🖥️ from Ireland.
+
+- 👨 My name is Milan
+- 💻 I’m interested in Competitive Programming
+- ☕ Currently learning Java and Python 🐍
+- 🤙 I’m looking to collaborate on any project
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<i class="devicon-devicon-plain"></i>
 
 
 ## Statistics 
