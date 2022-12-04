@@ -1,27 +1,44 @@
-<div id="header" align="center">
+<div id="header" align="center"  padding-bottom="54px">
   <img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" width="375">
 </div>
+<br>
 <div id="badges" align="center">
   
-   [![PersonalSite](https://img.shields.io/static/v1?style=for-the-badge&message=Personal+Site&color=5ac200&logo=Google+Chrome&logoColor=FFFFFF&label=) ](https://skynet.ie/~milan/portfolio/)
-   [![LinkedIn](https://img.shields.io/badge/linkedIn-blue?logo=linkedIn&logocolor=blue&style=for-the-badge)](https://www.linkedin.com/)
-   [![YouTube](https://img.shields.io/badge/youtube-red?logo=youtube&logocolor=black&style=for-the-badge&end)](https://www.youtube.com/)
+   <h3 style="text-align: center" align="center">
+    ⇋ Links ⇌
+    </h3>
+  
+   [![PersonalSite](https://img.shields.io/static/v1?style=for-the-badge&message=Personal+Site&color=5ac200&logo=Google+Chrome&logoColor=FFFFFF&label=) ](https://skynet.ie/~milan/)
+   [![LinkedIn](https://img.shields.io/badge/linkedIn-blue?logo=linkedIn&logocolor=blue&style=for-the-badge)](https://www.linkedin.com/in/milan-kovacs-cs/)
+   [![YouTube](https://img.shields.io/badge/youtube-red?logo=youtube&logocolor=black&style=for-the-badge&end)](https://www.youtube.com/@codewithmilan157/videos)
 
 </div>
+
+<div id="profile-count">
+    <h3 style="text-align: center" align="center">
+    ⇋ Profile Views ⇌
+    </h3>
+  <p style="text-align: center" align="center">
+    <img align="center" style="text-align: center" width=375px height="auto" class="image" src="https://profile-counter.glitch.me/M-Byte480/count.svg" /> 
+  </p>
+
+</div>
+
+<div align="center">
+ <h3 style="text-align: center" align="center">
+    ⇋ Currently Listening To ⇌
+    </h3>
+ 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=m!lan02&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=m!lan02&redirect=true)
+ 
+</div>
+
+## About Me
 
 - 👋 My name is @Milan
 - 👀 I’m interested in Competitive Programming
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on any project, preferably OOP
-
-## Visitor Count
-
-<p style="text-align: center" align="center">
-  <img align="center" style="text-align: center" width=370x height="auto" class="image" src="https://profile-counter.glitch.me/M-Byte480/count.svg" /> 
-</p>
-
-
-
 
 
 ## Statistics 
@@ -37,13 +54,9 @@
 </div>
 
 
-## Spotify Live View
-<div align="center">
- 
- 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=m!lan02&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=m!lan02&redirect=true)
- 
-</div>
+
+
+
 
 <!-- 
 [![](https://raw.githubusercontent.com/8BitJonny/8BitJonny/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
