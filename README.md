@@ -46,7 +46,7 @@ I am a Computer Science Student 🖥️ from Ireland.
 
 - 🕺  My name is Milan
 - 💻 I’m interested in Competitive Programming
-- ☕ Currently learning Java and Python 🐍
+- ☕ Currently learning Java, Python and C++ 🐍
 - 🤙 I’m looking to collaborate on any project
 
 ---
