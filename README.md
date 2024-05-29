@@ -52,8 +52,31 @@ I am a Computer Science Student 🖥️ from Ireland.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-<i class="devicon-devicon-plain"></i>
+## :hammer_and_wrench: Languages, Skills and Tools :
+
+### Languages
+<img src="https://skillicons.dev/icons?i=cpp,java,py,ts,php,html,css,sass&perline=8" />
+
+### Frameworks and Libraries
+<img src="https://skillicons.dev/icons?i=angular,spring,tailwind,bootstrap,opencv,qt,jest&perline=7" />
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,maven,cmake,npm&perline=8" />
+
+### Development Environments
+<img src="https://skillicons.dev/icons?i=androidstudio,clion,phpstorm,figma&perline=4" />
+
+### Databases
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase&perline=3" />
+
+### Operating Systems
+<img src="https://skillicons.dev/icons?i=linux,windows&perline=2" />
+
+### Cloud and Deployment
+<img src="https://skillicons.dev/icons?i=azure&perline=1" />
+
+### Other
+<img src="https://skillicons.dev/icons?i=regex&perline=1" />
 
 
 ## Statistics 
