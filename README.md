@@ -7,26 +7,6 @@
 
 ---
 
-<div id="badges" align="center">
-  
-   <h3 style="text-align: center" align="center">
-    ⇋ Links ⇌
-    </h3>
-
-</div>
-
-<div id="profile-count">
-    <h3 style="text-align: center" align="center">
-    ⇋ Profile Views ⇌
-    </h3>
-  <p style="text-align: center" align="center">
-    <img align="center" style="text-align: center" width=375px height="auto" class="image" src="https://profile-counter.glitch.me/M-Byte480/count.svg" /> 
-  </p>
-
-</div>
-
-
----
 
 ### :man_technologist: About Me :
 
