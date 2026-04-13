@@ -12,11 +12,6 @@
    <h3 style="text-align: center" align="center">
     ⇋ Links ⇌
     </h3>
-  
-   [![PersonalSite](https://img.shields.io/static/v1?style=for-the-badge&message=Personal+Site&color=5ac200&logo=Google+Chrome&logoColor=FFFFFF&label=) ](https://milan.users.skynet.ie/home)
-   [![LinkedIn](https://img.shields.io/badge/linkedIn-blue?logo=linkedIn&logocolor=blue&style=for-the-badge)](https://www.linkedin.com/in/milan-kovacs-cs/)
-   [![YouTube](https://img.shields.io/badge/youtube-red?logo=youtube&logocolor=black&style=for-the-badge&end)](https://www.youtube.com/@codewithmilan157/videos)
-   ![](https://dcbadge.vercel.app/api/shield/890607398065168384)
 
 </div>
 
